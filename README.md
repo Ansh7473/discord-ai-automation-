@@ -5,10 +5,6 @@
 Auto-reply like a pro in Discord DMs & channels using **Google Gemini AI**  
 ⚡ Fast • 🕵️‍♂️ Stealthy • 🎨 Stylish
 
-Multi-token support, smart rate-limit handling, and a vibrant terminal UI — built for humans who code like machines.
-
-# ⚡ Discord-Auto-Bot by [ Kazuha](https://github.com/Kazuha787) ⚡
-# ⚡ Telegram [CHANNEL](https://t.me/Offical_Im_kazuha)
 
 ## ✨ Features
 
@@ -23,11 +19,11 @@ Multi-token support, smart rate-limit handling, and a vibrant terminal UI — bu
 ## ⚙️ Installation
 
 ```bash
-git clone https://github.com/Kazuha787/Discord-Auto-Bot.git
+git clone https://github.com/Ansh7473/discord-ai-automation-.git
 ```
 # Go to Directory 
 ```
-cd Discord-Auto-Bot
+cd discord-ai-automation-
 ```
 # install the Dependency 
 ```
