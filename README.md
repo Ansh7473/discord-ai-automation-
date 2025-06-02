@@ -86,10 +86,6 @@ Use responsibly and at your own risk.
 
 ---
 
-## 👤 Author
-
-Developed with passion by [Kazuha](https://github.com/Kazuha787)  
-Telegram: [@Offical_Im_kazuha](https://t.me/Offical_Im_kazuha)
 
 ---
 
