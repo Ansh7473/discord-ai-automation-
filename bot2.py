@@ -21,8 +21,8 @@ def print_banner():
     console.print("[bold cyan]╔════════════════════════════════════════════════════╗[/bold cyan]")
     console.print("[bold cyan]║          DISCORD AI AUTO REPLIER BOT 🤖            ║[/bold cyan]")
     console.print("[bold cyan]║     Automate replies using Google AI, GPT & Discord║[/bold cyan]")
-    console.print("[bold cyan]║    Developed by: https://t.me/Offical_Im_kazuha    ║[/bold cyan]")
-    console.print("[bold cyan]║    GitHub: https://github.com/Kazuha787            ║[/bold cyan]")
+    console.print("[bold cyan]║
+    console.print("[bold cyan]║    GitHub:  https://github.com/Ansh7473/discord-ai-automation- ║[/bold cyan]")
     console.print("[bold cyan]╠════════════════════════════════════════════════════╣[/bold cyan]")
     console.print("[bold cyan]║                                                    ║[/bold cyan]")
     console.print("[bold cyan]║  ██╗  ██╗ █████╗ ███████╗██╗   ██╗██╗  ██╗ █████╗  ║[/bold cyan]")
